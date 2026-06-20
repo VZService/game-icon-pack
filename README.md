@@ -1,42 +1,44 @@
-# Nieobie Game Icon Pack
-<img width="35%" alt="v1 03C" src="https://github.com/user-attachments/assets/04e6c7bb-c13d-4077-a3be-b2fc4caecd18" />
+# Game Icon Pack
+<img width="100%" alt="banner2" src="https://github.com/user-attachments/assets/ad124425-230d-41f1-81ba-0dae4461d5cb" />
 
 
-## 570+ rounded style icons
-- PNG (64px / 128px / 256px) and SVG Formats
-- All corners are fully rounded - no sharp edges anywhere
+## 800+ Rounded Icons
+- Fully rounded design (no sharp corners)
+- Consistent visual style
+- SVG and PNG formats
+- Padding and no-padding versions
+- Optimized SVG and PNG files sizes
 - Continuously updated
 
 
-## Icon Requests
-If you have any icon requests, welcome to submit an Issue
-
-
 ## Download
-[https://nieobie.itch.io/free-icons](https://nieobie.itch.io/free-icons)
+[![itch.io](https://img.shields.io/badge/itch.io-Game_Icon_Pack-FF0B4A?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=272730)](https://nieobie.itch.io/free-icons)
 
-Or download from **Releases** on the right sidebar
-
-
-## Categories
-- UI
-- Media & Technology
-- Editor Tools
-- Shapes & Symbol
-- Game
-- Items
-- Nature & Food
+Or download from [**Releases**](https://github.com/Nieobie/game-icon-pack/releases)
 
 
 ## Preview
-<img width="100%" alt="ICONS574-2026 5 122" src="https://github.com/user-attachments/assets/9841a730-42af-4cfb-8817-0d00401043f5" />
+<img width="100%" alt="ICONS- 2" src="https://github.com/user-attachments/assets/19e559ac-8122-4462-8cb5-fa6253fa5b77" />
+
+
+## Requests
+If you have icon requests, suggestions, or ideas, feel free to open an Issue.
+
+I can't promise I'll add everything, but I'm always happy to hear ideas for future updates.
 
 
 ## License
-**Allowed:**
-- Personal and commercial use
-- No attribution required
+This icon pack is released under [**CC0 1.0 Universal**](https://creativecommons.org/publicdomain/zero/1.0/).
 
-**Not Allowed:**
-- Reselling this icon pack directly 
-- Reselling modified versions of this icon pack
+Feel free to use, modify, share, and distribute these icons for personal, commercial, educational, or any other purpose.
+
+If you'd like to mention this pack somewhere, I'd be genuinely grateful, but it's completely optional.
+
+
+## Support
+
+If you found this pack useful, a GitHub Star⭐ would mean a lot.
+
+You can also support me on [**Ko-fi**](https://ko-fi.com/nieobie).
+
+Thanks for being here!
